@@ -1,5 +1,5 @@
 public class arreglosexplicacion {
-    public static void main(String[]args) throws Exception {
+ public static void main(String[] args) {
         float notaestudiante2= 3.5f;
         float notaestudiante3 = 2.9f;
         float notaestudiante4 = 3.7f;
