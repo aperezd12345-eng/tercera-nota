@@ -8,13 +8,13 @@ public class edades {
         byte[] edades = new byte[5];
 
         // Leer las 5 posiciones
-        for (int i = 0; i < edades.length; i++) {
+        for (int i=0 ; i < edades.length; i++) {
             System.out.print("Ingrese la edad de la persona " + (i + 1) + ": ");
             edades[i] = leer.nextByte();
         }
 
         // Mostrar el arreglo
-        System.out.println("\nEdades ingresadas:");
+        System.out.println("Edades ingresadas:");
 
         for (int i = 0; i < edades.length; i++) {
             System.out.println("Posición " + i + ": " + edades[i]);

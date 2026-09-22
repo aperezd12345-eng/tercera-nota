@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class positivosynegativo {
     public static void main(String[] args) {
         Scanner leer = new Scanner (System.in);
+        System.out.print("Ingrese un número: ");
         int numero = leer.nextInt();
     if (numero > 0) {
         System.out.println("El número es positivo.");

@@ -1,4 +1,5 @@
 public class arreglosexplicacion {
+    
  public static void main(String[] args) {
         float notaestudiante2= 3.5f;
         float notaestudiante3 = 2.9f;
@@ -17,8 +18,8 @@ public class arreglosexplicacion {
         //System.out.println(notas[3]);
 
 
-        int[] numeros = {18, 33, 34, 4, 6};
-        System.out.println(numeros[4]);
+        //int[] numeros = {18, 33, 34, 4, 6};
+        //System.out.println(numeros[4]);
 
 
     }
